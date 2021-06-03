@@ -1,3 +1,6 @@
 [submodule "CMakeTutorial-"]
 	path = CMakeTutorial-
 	url = https://github.com/Tailwhip/CMakeTutorial-.git
+[submodule "tf_course"]
+	path = tf_course
+	url = https://github.com/Tailwhip/tf_course.git
