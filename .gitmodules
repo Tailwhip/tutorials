@@ -4,3 +4,6 @@
 [submodule "tf_course"]
 	path = tf_course
 	url = https://github.com/Tailwhip/tf_course.git
+[submodule "tf_trt_course"]
+	path = tf_trt_course
+	url = https://github.com/Tailwhip/tf_trt_course.git
